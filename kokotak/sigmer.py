@@ -10,7 +10,7 @@ import aiohttp
 from datetime import datetime, timedelta
 
 # Bot configuration
-TOKEN = 'TOKEN'  # Replace with your Discord bot token
+TOKEN = 'DISCORD_TOKEN'  # Replace with your Discord bot token
 SELLER_KEY = 'd50f68884fcd5020a56bf88351ef5082'  # Seller key from KeyAuth
 AUTH_BASE_URL = 'https://keyauth.win/api/seller/'
 PREFIX = '?'
